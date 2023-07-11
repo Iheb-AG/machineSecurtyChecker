@@ -2,10 +2,14 @@
 
 a text based program which helps Computer Users check thier machine security
 
+### Disclaimer 
+this project was made only to understand how an expert system works
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
+- [Explanation](#Explanation)
 - [FAQ](#faq)
 - [Contact](#contact)
 
@@ -24,6 +28,10 @@ We have upcoming plans for StageMaster. Some of them are:
 - adding more accurate questions
 - provide articles concerning the threats provided after questions
 
+## Explanation 
+the system asks the user in order to gather informations about the most common activities the machine can be harmed .
+Here is a schema which demonstrates the way this system works
+![systemSecurityAssistant](https://github.com/Iheb-AG/machineSecurtyChecker/assets/101937924/e01f5dd3-a086-4490-8e3e-81d62c5c0b17)
 
 ## FAQ
 ### Q: What's this project is used for ?
